@@ -120,3 +120,15 @@ These results come from specific experimental datasets and should not be interpr
 ## Disclaimer
 
 This project is intended for educational and experimental purposes. Its predictions should not be treated as definitive evidence that an image does or does not contain hidden information.
+
+## Development Status
+
+This project is an ongoing educational experiment in image steganography and machine learning.
+
+Current development priorities:
+- Improving classification performance on app-generated stego images
+- Evaluating models using independent test images
+- Improving image analysis and error handling
+- Expanding automated testing and documentation
+
+The classifier is experimental and should not be considered a reliable universal steganography detector.
