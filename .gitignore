@@ -1,0 +1,30 @@
+
+# Python virtual environments
+.venv/
+.venv-cnn/
+venv/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Secrets and environment files
+.env
+.env.*
+.streamlit/secrets.toml
+
+# Temporary and editor files
+*.log
+*.tmp
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Generated datasets and backups
+dataset/
+dataset_backup/
+
+# Optional CNN model files
+model/*.h5
+model/*.keras
+model/*.png
